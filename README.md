@@ -1,7 +1,7 @@
 # Wav2Lip-assign
 
 
-Code is return in [collab notebook ](https://colab.research.google.com/drive/1NyQx361E-z9Jj1ButvC6__mVCS_gwT83?usp=sharing) and before running the notebook change it to gpu 
+Code is return in [collab notebook ](https://colab.research.google.com/drive/1NyQx361E-z9Jj1ButvC6__mVCS_gwT83?usp=sharing) and before running the notebook change it to gpu  and output will be saved in wav2lip/results folder
 
 [input_video:](https://openinapp.co/5cwva)
 [input_audio:](https://openinapp.co/o9vuj)
